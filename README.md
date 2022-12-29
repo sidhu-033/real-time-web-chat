@@ -1,2 +1,2 @@
 # real-time-web-chat
-Real-time chattingweb application using MERN stack
+Real-time chatting web application using MERN stack
